@@ -1,3 +1,11 @@
 #sidebar{
   min-height: 3000px;
 }
+
+#sidebar-links {
+   list-style: none;
+}
+.sidebar-links {
+   list-style: none;
+   font-size: .9em;
+}
