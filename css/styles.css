@@ -1,3 +1,7 @@
+.container-fluid {
+  padding-top: 70px;
+}
+
 #sidebar{
   min-height: 3000px;
 }
@@ -9,3 +13,13 @@
    list-style: none;
    font-size: .9em;
 }
+
+.hr {
+  width: 60%;
+  object-position: center;
+}
+
+#img {
+width: auto;
+height: 240px;
+ }
